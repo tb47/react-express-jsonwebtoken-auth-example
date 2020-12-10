@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper-1 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top:  10em;
+}
+
+#wrapper-1 button {
+  margin-left: 1em;
+}
+
+#wrapper-1 a {
+  padding-left: 1em;
+}
+
